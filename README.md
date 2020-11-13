@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-pagudi0504/Space%20Game%20-%20web/_apis/build/status/pagudi.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/v-pagudi0504/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
